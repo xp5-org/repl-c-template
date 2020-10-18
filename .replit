@@ -1,0 +1,2 @@
+language = "c"
+run = "chmod +x script.sh ; bash ./script.sh"
